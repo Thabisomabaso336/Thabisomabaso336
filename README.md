@@ -12,11 +12,7 @@ I’m a recent Durban University of Technology graduate in ICT Business Analysis
 - Tools: Git/GitHub, VS Code
 
 - Projects: Business websites, booking systems, tutoring platforms
-
-## 🚀 Current Projects
-
-- CasanovaTechSolution – A tech services business offering online bookings, applications assistance, and gaming events, powered by my own custom web application.
-
+  
 ## 🎯 Goals
 
 - Build scalable web solutions for real-world problems
