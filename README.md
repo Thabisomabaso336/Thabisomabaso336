@@ -7,7 +7,7 @@ I’m a recent Durban University of Technology graduate in ICT Business Analysis
 
 - Frontend: HTML, CSS, JavaScript
 
-- Backend: PHP, MySQL
+- Backend:  MySQL
 
 - Tools: Git/GitHub, VS Code
 
