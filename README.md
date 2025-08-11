@@ -23,5 +23,4 @@ I’m a recent Durban University of Technology graduate in ICT Business Analysis
 
 - Expand into cloud deployments and mobile app development
 - 
-## 📑 know about my Experience:[07:50, 11/08/2025] CasanovaTechsolution 🔩: profileImg.alt = ${developer.name} …
-[09:26, 11/08/2025] CasanovaTechsolution 🔩: https://www.linkedin.com/in/thabiso-senzo-mabaso-ab0b6a350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## 🌎Connect with me : 
