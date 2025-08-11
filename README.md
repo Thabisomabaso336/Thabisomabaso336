@@ -3,7 +3,7 @@
 
 I’m a recent Durban University of Technology graduate in ICT Business Analysis with a passion for building responsive, user-friendly web applications. I enjoy blending problem-solving with creativity to deliver practical tech solutions—whether it’s developing full-stack web apps, automating workflows, or creating engaging user interfaces.
 
-## 🌟 What I Do:
+## 🌟 What I Do
 
 - Frontend: HTML, CSS, JavaScript
 
@@ -13,11 +13,11 @@ I’m a recent Durban University of Technology graduate in ICT Business Analysis
 
 - Projects: Business websites, booking systems, tutoring platforms
 
-## 🚀 Current Projects:
+## 🚀 Current Projects
 
 - CasanovaTechSolution – A tech services business offering online bookings, applications assistance, and gaming events, powered by my own custom web application.
 
-## 🎯 Goals:
+## 🎯 Goals
 
 - Build scalable web solutions for real-world problems
 
