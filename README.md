@@ -20,8 +20,6 @@ I’m a recent Durban University of Technology graduate in ICT Business Analysis
 - Expand into cloud deployments and mobile app development
   ## 🚀 Current Projects
 
-- CasanovaTechSolution –A growing tech services business providing online bookings, application assistance (CAO/NSFAS), and gaming events, all powered by a custom-built web application.
-
 - High School Websites  Designing and developing professional, responsive websites for local high schools to enhance their online presence and communication.
   
 ## 🌎Connect with me 
