@@ -24,3 +24,4 @@ I’m a recent Durban University of Technology graduate in ICT Business Analysis
 - Expand into cloud deployments and mobile app development
   
 ## 🌎Connect with me : thabisomab336@gmail.com
+-  https://www.linkedin.com/in/thabiso-senzo-mabaso-ab0b6a350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
