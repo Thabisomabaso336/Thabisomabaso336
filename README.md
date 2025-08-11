@@ -22,5 +22,5 @@ I’m a recent Durban University of Technology graduate in ICT Business Analysis
 - Build scalable web solutions for real-world problems
 
 - Expand into cloud deployments and mobile app development
-- 
+  
 ## 🌎Connect with me : thabisomab336@gmail.com
